@@ -1,0 +1,5 @@
+package com.elicarlos.estudoUml.services;
+
+public class CategoriaService {
+
+}
